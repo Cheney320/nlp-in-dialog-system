@@ -1,0 +1,2 @@
+from .intent_with_bert import IntentWithBert
+from .intent_with_bert import IntentWithBertPredictor
